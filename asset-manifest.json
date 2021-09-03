@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/infinix-gallery/static/css/main.f8ca13c6.chunk.css",
+    "main.js": "/infinix-gallery/static/js/main.5e6319b9.chunk.js",
+    "main.js.map": "/infinix-gallery/static/js/main.5e6319b9.chunk.js.map",
+    "runtime-main.js": "/infinix-gallery/static/js/runtime-main.ff69ce5e.js",
+    "runtime-main.js.map": "/infinix-gallery/static/js/runtime-main.ff69ce5e.js.map",
+    "static/js/2.804f8fd1.chunk.js": "/infinix-gallery/static/js/2.804f8fd1.chunk.js",
+    "static/js/2.804f8fd1.chunk.js.map": "/infinix-gallery/static/js/2.804f8fd1.chunk.js.map",
+    "index.html": "/infinix-gallery/index.html",
+    "precache-manifest.16df2a46677b244220ca199ea591046a.js": "/infinix-gallery/precache-manifest.16df2a46677b244220ca199ea591046a.js",
+    "service-worker.js": "/infinix-gallery/service-worker.js",
+    "static/css/main.f8ca13c6.chunk.css.map": "/infinix-gallery/static/css/main.f8ca13c6.chunk.css.map",
+    "static/js/2.804f8fd1.chunk.js.LICENSE.txt": "/infinix-gallery/static/js/2.804f8fd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff69ce5e.js",
+    "static/js/2.804f8fd1.chunk.js",
+    "static/css/main.f8ca13c6.chunk.css",
+    "static/js/main.5e6319b9.chunk.js"
+  ]
+}
